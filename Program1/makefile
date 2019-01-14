@@ -1,7 +1,7 @@
 #
-# PROGRAM:    assign1
+# PROGRAM:    program1
 # PROGRAMMER: Afifah Arif
-# LOGON ID:   Z1791755
+# LOGON ID:   XXXXXXX
 # DATE DUE:   02/01/2018
 #
 
