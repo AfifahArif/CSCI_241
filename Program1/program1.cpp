@@ -1,10 +1,10 @@
-/*********************************************************************
+/***
 PROGRAM:    CSCI 241 Assignment 1
 PROGRAMMER: Afifah Arif
 LOGON ID:   Z1791755
 DUE DATE:   02/01/2018
 FUNCTION:   This program tests functions for manipulating C strings.
-*********************************************************************/
+***/
 
 #include <iostream>
 #include <cstring>
