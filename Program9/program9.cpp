@@ -1,6 +1,6 @@
 /***
 ASSIGNMENT: Program 9 (Extra Credit)
-PROGRAMMER(S): Afifah Arif
+PROGRAMMER: Afifah Arif
 LOGON ID: XXXXXXXX
 DUE DATE: 05/02/2018
 FUNCTION: This program creates a series of classes to represent	some
