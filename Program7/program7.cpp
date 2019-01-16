@@ -1,7 +1,7 @@
 /***
 PROGRAM: CSCI 241 Program 7
 PROGRAMMER: Afiah Arif
-LOGON ID: XXXXXXX
+LOGON ID: XXXXXXXX
 DUE DATE: 4/19/18
 FUNCTION: This program tests the functionality of the Queue
 	template class.
