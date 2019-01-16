@@ -1,7 +1,7 @@
 /***
 Program: CSCI 241 Program 3
 Programmer: Afifah Arif
-Logon ID: XXXXXXX
+Logon ID: XXXXXXXX
 Due date: 02/28/18
 Function: This program tests the functionality of the Verifier class.
 ***/
