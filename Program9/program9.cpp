@@ -1,11 +1,11 @@
-/*
+/***
 ASSIGNMENT: Program 9 (Extra Credit)
 PROGRAMMER(S): Afifah Arif
 LOGON ID: XXXXXXXX
 DUE DATE: 05/02/2018
 FUNCTION: This program creates a series of classes to represent	some
 	simple geometric shapes and a program to test your classes.
-*/
+***/
 
 #include <iostream>
 #include <vector>
