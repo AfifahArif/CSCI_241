@@ -1,10 +1,10 @@
 /***
-PROGRAM:   CSCI 241 Program 6
+PROGRAM: CSCI 241 Program 6
 PROGRAMMER: Afifah Arif
-LOGON ID:   XXXXXXX
-DUE DATE:   04/10/18
-FUNCTION:   This program tests the functionality of the Queue
-template class.
+LOGON ID: XXXXXXX
+DUE DATE: 04/10/18
+FUNCTION: This program tests the functionality of the Queue
+	template class.
 ***/
 
 #include <iostream>
