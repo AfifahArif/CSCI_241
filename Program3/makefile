@@ -1,8 +1,8 @@
 #
-#	Program: Program3
-#	Programmer: Afifah Arif
-#	Logon ID: XXXXXXXX
-#	Date due: 02/28/18
+#Program: Program3
+#Programmer: Afifah Arif
+#Logon ID: XXXXXXXX
+#Date due: 02/28/18
 #
 
 # Compiler variables
