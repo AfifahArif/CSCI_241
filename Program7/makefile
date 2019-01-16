@@ -1,7 +1,7 @@
 #
 # PROGRAM: Program7
 # PROGRAMMER: Afifah Arif
-# LOGON ID: XXXXXXX
+# LOGON ID: XXXXXXXX
 # DATE DUE: 4/20/18
 #
 
