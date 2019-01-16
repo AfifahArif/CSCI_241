@@ -1,9 +1,9 @@
 /***
-PROGRAM:    CSCI 241 Program 1
+PROGRAM: CSCI 241 Program 1
 PROGRAMMER: Afifah Arif
-LOGON ID:   XXXXXXXX
-DUE DATE:   02/01/2018
-FUNCTION:   This program tests functions for manipulating C strings.
+LOGON ID: XXXXXXXX
+DUE DATE: 02/01/2018
+FUNCTION: This program tests functions for manipulating C strings.
 ***/
 
 #include <iostream>
